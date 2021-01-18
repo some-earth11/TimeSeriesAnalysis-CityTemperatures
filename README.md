@@ -2,6 +2,7 @@ This repository was created for a task from IoT Alliance SRM IST, Chennai. This 
 https://www.kaggle.com/sudalairajkumar/daily-temperature-of-major-cities
 
 The EDA is done using popular python libraries like matplotlib, seaborn and plotly. Choropleth map animation has been added to provide a view of all years in a map of the world. Another dataset(iso_codes) was imported for visualization in the choropleth map.
+PS: You will have to run the jupyter notebook locally to see the choropleth animation.
 
 The Project covers EDA for the entire world and then moves on to a region(Asia) and then to a country(India) and its cities.
 
