@@ -3,7 +3,7 @@ https://www.kaggle.com/sudalairajkumar/daily-temperature-of-major-cities
 
 The EDA is done using popular python libraries like matplotlib, seaborn and plotly. Choropleth map animation has been added to provide a view of all years in a map of the world. Another dataset(iso_codes) was imported for visualization in the choropleth map.
 
-PS: You will have to run the <b>jupyter notebook</b> locally to see the choropleth animation.
+PS: You will have to run the <b>JUPYTER NOTEBOOK</b> locally to see the choropleth animation and make sure you have all the required libraries.
 
 The Project covers EDA for the entire world and then moves on to a region(Asia) and then to a country(India) and its cities.
 
