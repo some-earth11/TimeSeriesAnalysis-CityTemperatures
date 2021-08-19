@@ -1,4 +1,4 @@
-This repository was created for a task from IoT Alliance SRM IST, Chennai. This project contains in-depth Exploratory Data Analysis(EDA) and prediction using the LSTM model of a kaggle dataset regarding cities and their average temperatures over the years.
+This project contains in-depth Exploratory Data Analysis(EDA) and prediction using the LSTM model of a kaggle dataset regarding cities and their average temperatures over the years.
 https://www.kaggle.com/sudalairajkumar/daily-temperature-of-major-cities
 
 The EDA is done using popular python libraries like matplotlib, seaborn and plotly. Choropleth map animation has been added to provide a view of all years in a map of the world. Another dataset(iso_codes) was imported for visualization in the choropleth map.
